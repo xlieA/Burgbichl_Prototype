@@ -7,6 +7,6 @@ XR technologies present unique solutions to communicate Cultural Heritage (CH) k
 1. Enable installing apps from unknown sources:
    1. Go to **Settings > Security**
    2. Enable **"Install unknown apps"** for your browser
-2. Follow the download link in your browser
+2. Follow the [download link](https://github.com/xlieA/Burgbichl_Prototype/releases/download/v0.1-beta.1/prototype.apk) in your browser or scan the QR code below
 3. Tap **"Download"**
 4. When finished, tap the file to install
