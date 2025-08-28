@@ -13,12 +13,18 @@ The prototype offers two game versions:
       <br> (If you're having trouble, check the screenshots below)
    1. Go to **Settings > Security**
    2. Enable **"Install unknown apps"** for your browser
-3. Follow the [download link](https://github.com/xlieA/Burgbichl_Prototype/releases/download/v0.1-beta.1/prototype.apk) in your browser or scan the QR code below
+2. Follow the [download link](https://github.com/xlieA/Burgbichl_Prototype/releases/download/v0.1-beta.1/prototype.apk) in your browser or scan the QR code below
    <div style="text-align:center;">
       <img src="images/qr-code.png" style="width:300px; border-radius:10px;">
    </div>
-4. Tap **"Download"**
-5. When finished, tap the file to install
+3. Tap **"Download"**
+4. When finished, tap the file to install
+
+> **Note**  
+> Please make sure to give the app permission to access your smartphone's camera and your GPS location in your phone's settings:  
+> **Settings > Apps > Prototype > Location/Camera**  
+>  
+> Select **“Allow only while using the app”**, since **“Ask every time”** may lead to issues on some smartphones.
 
 <br>
 
@@ -30,3 +36,8 @@ The prototype offers two game versions:
    <img src="images/t05.png" style="width:300px; border-radius:10px;">
    <img src="images/t06.png" style="width:300px; border-radius:10px;">
 </div>
+
+## Gameplay Trailer
+[![Watch the video](https://img.youtube.com/vi/c3Z7f2FtzJ4/hqdefault.jpg)](https://www.youtube.com/watch?v=c3Z7f2FtzJ4)
+
+
