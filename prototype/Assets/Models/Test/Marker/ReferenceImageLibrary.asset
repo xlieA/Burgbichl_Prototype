@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: ReferenceImageLibrary
+  m_EditorClassIdentifier: 
+  m_GuidLow: 4703917017808979166
+  m_GuidHigh: 337149831467056801
+  m_DataStore:
+    m_Storage: []
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 5686415118088809151
+      m_GuidHigh: 1654063421876906882
+    m_SerializedTextureGuid:
+      m_GuidLow: 3671623889123668195
+      m_GuidHigh: 9479938332677071003
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: kirche
+    m_Texture: {fileID: 2800000, guid: 5c0df0e33a7932f49b60d3cbaf818f83, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 4802888487573400217
+      m_GuidHigh: 14683724893846462905
+    m_SerializedTextureGuid:
+      m_GuidLow: 17592343517217104552
+      m_GuidHigh: 2503379294015134699
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: toranlage
+    m_Texture: {fileID: 2800000, guid: 7e5f22a88f38f424eb1bd75534cabd22, type: 3}

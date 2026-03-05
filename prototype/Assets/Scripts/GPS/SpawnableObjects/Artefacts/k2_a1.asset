@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 484900421f5b6ba4a99cd23eb88aff39, type: 3}
+  m_Name: k2_a1
+  m_EditorClassIdentifier: 
+  objectName: k2_a1
+  objectNames:
+  - K2_A1
+  - K2_A1
+  latitudeValue: 0
+  longitudeValue: 0
+  altitudeValue: 0
+  prefab: {fileID: 3347577814164930992, guid: 8eb7584cb09f8dd46b992f392c6f98fd, type: 3}
+  img: {fileID: 21300000, guid: 034bc606c74f37a4caf346dccfe79f6a, type: 3}
+  descriptions:
+  - tbc
+  - tbc
+  spawned: 0
+  scaleRateObjScene: {x: 0.04, y: 0.04, z: 0.04}
+  parent: {fileID: 11400000, guid: 01a913d0150effa43a59962962414b93, type: 2}

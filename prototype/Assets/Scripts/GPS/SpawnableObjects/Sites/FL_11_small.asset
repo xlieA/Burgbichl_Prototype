@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fad2ef38cf80f524cac879a34913f357, type: 3}
+  m_Name: FL_11_small
+  m_EditorClassIdentifier: 
+  objectName: FL_11_even_smaller
+  objectNames:
+  - FL 11 E
+  - FL 11 D
+  latitudeValue: 46.73228
+  longitudeValue: 13.007
+  altitudeValue: 0
+  prefab: {fileID: 9032442102043293175, guid: dfe7ead711d926648ac04a5f995fc19a, type: 3}
+  img: {fileID: 21300000, guid: e8a7e33752342c448a12d585b38ff826, type: 3}
+  descriptions:
+  - tbc
+  - tbc
+  spawned: 0
+  scaleRateObjScene: {x: 0.03, y: 0.03, z: 0.03}
